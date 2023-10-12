@@ -1,0 +1,14 @@
+C:\Users\Gman(STIRTS)\source\repos\NetScanBeta\bin\Debug\NetScanBeta.exe.config
+C:\Users\Gman(STIRTS)\source\repos\NetScanBeta\bin\Debug\NetScanBeta.exe
+C:\Users\Gman(STIRTS)\source\repos\NetScanBeta\bin\Debug\NetScanBeta.pdb
+C:\Users\Gman(STIRTS)\source\repos\NetScanBeta\obj\Debug\NetScanBeta.csproj.AssemblyReference.cache
+C:\Users\Gman(STIRTS)\source\repos\NetScanBeta\obj\Debug\NetScanBeta.Form1.resources
+C:\Users\Gman(STIRTS)\source\repos\NetScanBeta\obj\Debug\NetScanBeta.Properties.Resources.resources
+C:\Users\Gman(STIRTS)\source\repos\NetScanBeta\obj\Debug\NetScanBeta.csproj.GenerateResource.cache
+C:\Users\Gman(STIRTS)\source\repos\NetScanBeta\obj\Debug\NetScanBeta.csproj.CoreCompileInputs.cache
+C:\Users\Gman(STIRTS)\source\repos\NetScanBeta\obj\Debug\NetScanBeta.exe
+C:\Users\Gman(STIRTS)\source\repos\NetScanBeta\obj\Debug\NetScanBeta.pdb
+C:\Users\Gman(STIRTS)\source\repos\NetScanBeta\bin\Debug\ManagedWifi.dll
+C:\Users\Gman(STIRTS)\source\repos\NetScanBeta\obj\Debug\NetScanBeta.csproj.CopyComplete
+C:\Users\Gman(STIRTS)\source\repos\NetScanBeta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gman(STIRTS)\source\repos\NetScanBeta\bin\Debug\Newtonsoft.Json.xml
